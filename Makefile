@@ -1,6 +1,6 @@
 prepare:
 	pipenv install Flask
-	piepenv install pytest
+	pipenv install pytest
 
 
 test:
