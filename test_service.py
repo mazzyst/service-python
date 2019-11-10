@@ -9,4 +9,4 @@ def test_user():
     THEN check the email, hashed_password, authenticated, and role fields are defined correctly
     """
     user = User('patkennedy79@gmail.com', 'FlaskIsAwesome')
-    assert user.email == 'patkennedy79@gmail.comT'
+    assert user.email == 'patkennedy79@gmail.com'
